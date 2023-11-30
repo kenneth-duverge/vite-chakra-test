@@ -1,6 +1,6 @@
 // eslint-disable-next-line @typescript-eslint/ban-ts-comment
 // @ts-ignore
-import { Button } from '@vimeo-ux/components';
+import { Button } from '@chakra-ui/react';
 import './App.css';
 
 function App() {
